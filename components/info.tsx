@@ -43,4 +43,3 @@ const Info: React.FC<InfoProps> = ({ data }) => {
 }
 
 export default Info;
-// TODO: Continue from individual categroy pages 8:45:50
