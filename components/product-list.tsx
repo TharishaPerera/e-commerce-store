@@ -24,5 +24,3 @@ const ProductList: React.FC<ProductListProps> = ({ title, items }) => {
 }
 
 export default ProductList;
-
-// TODO: Continue from individual product page 8:22:15
