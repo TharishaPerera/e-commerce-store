@@ -58,4 +58,3 @@ const MobileFilters: React.FC<MobileFiltersProps> = ({ sizes, colors }) => {
 };
 
 export default MobileFilters;
-// TODO: continue popup modal 9:07:17
